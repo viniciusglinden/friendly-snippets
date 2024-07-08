@@ -6,7 +6,7 @@
             "title: ${1:title}",
             "author: ${2: author_name}",
             "date: ${3:\"`r Sys.Date()`\"}",
-            "output: ${5:pdf_document}",
+            "output: ${4:pdf_document}",
             "---"
         ]
     },
